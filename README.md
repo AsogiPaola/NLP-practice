@@ -10,6 +10,6 @@ In this Jupyter Notebook I practice the TF-IDF method to visualice the Cosine wa
 
 |  Imagen  | Descripción |
 |---|---|
-|  `<img src="https://github.com/user-attachments/assets/b392c25b-1adb-441a-94f0-5046801b0d39" width="300" height="300">` |  This graph has the data out of order |
+|  `![image](https://github.com/user-attachments/assets/b4678fe9-662f-454e-9fa6-e32fd6fde24b)` |  This graph has the data out of order |
 |  `<img src="https://github.com/user-attachments/assets/ff9cbcd3-b2ab-4719-aaa1-d1ab430d4fe7" width="300" height="300">` | And this graph has a logaritming form due to ordering data from highest to lowest similraity of the vectors from this movies |
 
