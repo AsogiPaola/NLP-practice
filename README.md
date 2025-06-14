@@ -10,12 +10,5 @@ In this Jupyter Notebook I practice the TF-IDF method to visualice the Cosine wa
 
 |  Imagen  | Descripción |
 |---|---|
-|  `![image](https://github.com/user-attachments/assets/b4678fe9-662f-454e-9fa6-e32fd6fde24b)` |  This graph has the data out of order |
-
-
-
-
-|  Imagen  | Descripción |
-|---|---|
-|  `![image](https://via.placeholder.com/150)` |  Esta es la primera imagen.  |
+|  `![image](https://github.com/user-attachments/assets/502a2548-44f4-4976-9e03-a329f36d2dc8)` |  This graph has the data out of order  |
 |  `![image](https://github.com/user-attachments/assets/09b505e3-dc3a-4a7d-868f-8c47f39a483d)` | And this graph has a logaritming form due to ordering data from highest to lowest similraity of the vectors from this movies   |
