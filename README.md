@@ -8,7 +8,7 @@ NLP practice
 In this Jupyter Notebook I practice the TF-IDF method to visualice the Cosine way to calculate the similarity between vectors (cosine_similarity), using matplotlib library to see the type of graph, in this case a logaritming graph, I can do this by taking a movie from this dataset and compare it with the rest of the movies and selecting the first ten movies for movies recommendations.
 
 
-|  Imagen  | Descripción |
+|  Image  | Description |
 |---|---|
 |  ![image](https://github.com/user-attachments/assets/502a2548-44f4-4976-9e03-a329f36d2dc8) |  This graph has the data out of order  |
 |  ![image](https://github.com/user-attachments/assets/09b505e3-dc3a-4a7d-868f-8c47f39a483d) | And this graph has a logaritming form due to ordering data from highest to lowest similraity of the vectors from this movies   |
