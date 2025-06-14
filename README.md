@@ -7,7 +7,30 @@ NLP practice
     kaggle link: https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset. <br>
 In this Jupyter Notebook I practice the TF-IDF method to visualice the Cosine way to calculate the similarity between vectors (cosine_similarity), using matplotlib library to see the type of graph, in this case a logaritming graph, I can do this by taking a movie from this dataset and compare it with the rest of the movies and selecting the first ten movies for movies recommendations.
 
-This graph has the data out of order <br>
-<img src="https://github.com/user-attachments/assets/b392c25b-1adb-441a-94f0-5046801b0d39" width="400" height="400">  <br>
-And this graph has a logaritming form due to ordering data from highest to lowest similraity of the vectors from this movies <br>
-<img src="https://github.com/user-attachments/assets/ff9cbcd3-b2ab-4719-aaa1-d1ab430d4fe7" width="400" height="400">  <br>
+<div id="contenedor">
+  <div>
+    <p>
+       This graph has the data out of order <br>
+<img src="https://github.com/user-attachments/assets/b392c25b-1adb-441a-94f0-5046801b0d39" width="300" height="300">  <br>
+    </p>
+  </div>
+  <div>
+    <p>
+       And this graph has a logaritming form due to ordering data from highest to lowest similraity of the vectors from this movies <br>
+<img src="https://github.com/user-attachments/assets/ff9cbcd3-b2ab-4719-aaa1-d1ab430d4fe7" width="300" height="300">  <br>
+    </p>
+  </div>
+</div>
+
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#contenedor > div {
+  width: 50%;
+}
+
+
+
