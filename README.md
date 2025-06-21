@@ -15,3 +15,8 @@ NLP practice
 
 3. Folder of similarity <br>
    kaggle link: https://www.kaggle.com/datasets/rtatman/pretrained-word-vectors-for-spanish  <br>
+
+4. Folder Text Clasificator
+   
+5. Folder Word2Vec:
+   There are some texts for training
