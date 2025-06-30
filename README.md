@@ -27,10 +27,8 @@ NLP practice
 
 7. Foldedr of Spinning <br>
 8. Folder of Spam <br>
-Kaggle: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification
-   In this folder i practice with a the algoritme MultinomialNB from sklearn, i've classified the email with a small data
-
-
+Kaggle: https://www.kaggle.com/datasets/ashfakyeafi/spam-email-classification <br>
+   In this folder i practice with a the algoritme MultinomialNB from sklearn, i've classified the email with a small dataset from kaggle.
       
    |  Graph  | Description |
    |---|---|
