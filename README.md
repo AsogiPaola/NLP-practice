@@ -27,12 +27,12 @@ NLP practice
 
 7. Foldedr of Spinning
 8. Folder of Spam
-   |  Image  | Description |
+|  Image  | Description |
 |---|---|
-|  ![image](https://github.com/user-attachments/assets/a1c65d65-d277-4cf9-9abc-0ddee63f44df) |  This graph has the binary data  |
-|  ![image](https://github.com/user-attachments/assets/4d2e55bc-a573-42f4-9484-a745723dab1d) |This is a Heat Map of train data  |
-|  ![image](https://github.com/user-attachments/assets/f791690c-8a0a-4462-a762-5b643da0aff1) |This is a Heat Map of test data  |
-|  ![image](https://github.com/user-attachments/assets/493b47c6-20aa-4578-a72f-742e7fa5d8dd) |This is a word cloud  |
+|  ![image](https://github.com/user-attachments/assets/a1c65d65-d277-4cf9-9abc-0ddee63f44df) | This graph has the binary data  |
+|  ![image](https://github.com/user-attachments/assets/4d2e55bc-a573-42f4-9484-a745723dab1d) | This is a Heat Map of train data  |
+|  ![image](https://github.com/user-attachments/assets/f791690c-8a0a-4462-a762-5b643da0aff1) | This is a Heat Map of test data  |
+|  ![image](https://github.com/user-attachments/assets/493b47c6-20aa-4578-a72f-742e7fa5d8dd) | This is a word cloud  |
  
  
    
