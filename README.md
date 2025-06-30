@@ -22,8 +22,18 @@ NLP practice
 6. Folder or text generator
    In this practice i created a text generator, using a txt documents with poems of Benedetti, aplying second order Markov model, that means a way to  store more than 1 state, (its posible make mor than a 2 order  but the computational cost increase, for this practice only use 2 for aply all a learn.) more than a normal Markov model wich usually just use the actual state for make a predictions of the next word base on a probability to appear a next word,  this is using for give sense to a sentence like an generator text, so the matrix was a tridimensional space, and we need take 2 points in time, t_1 and t_2 (new states) for this case. Also for the probabilities i count the frecuency of ocurrence of some words together a another word, this help me to calculate the different probabilities for a different word sequences and to know (in the case of my small dataset) which sequences are most common and wich words had the highest probability to apper next to the before word, so my text generator can create sentences according to sentences size i give it
 
+
+
+
 7. Foldedr of Spinning
 8. Folder of Spam
+   |  Image  | Description |
+|---|---|
+|  ![image](https://github.com/user-attachments/assets/a1c65d65-d277-4cf9-9abc-0ddee63f44df) |  This graph has the binary data  |
+|  ![image](https://github.com/user-attachments/assets/4d2e55bc-a573-42f4-9484-a745723dab1d) |This is a Heat Map of train data  |
+|  ![image](https://github.com/user-attachments/assets/f791690c-8a0a-4462-a762-5b643da0aff1) |This is a Heat Map of test data  |
+|  ![image](https://github.com/user-attachments/assets/493b47c6-20aa-4578-a72f-742e7fa5d8dd) |This is a word cloud  |
+ 
  
    
 
